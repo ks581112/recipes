@@ -4,4 +4,5 @@
 * lemon
 * salt
 ## Instructions
+* Chop the avocado
 
