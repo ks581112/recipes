@@ -5,4 +5,4 @@
 * salt
 ## Instructions
 * Chop the avocado
-
+* Juice the lime
